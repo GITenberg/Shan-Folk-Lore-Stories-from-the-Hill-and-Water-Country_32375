@@ -1,0 +1,31 @@
+_repo: Shan-Folk-Lore-Stories-from-the-Hill-and-Water-Country_32375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griggs, William Charles
+    alias: Griggs, William C.
+    birthdate: 1867
+    gutenberg_agent_id: '35812'
+    url: http://www.gutenberg.org/2009/agents/35812
+description: ''
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Tales -- Burma'
+- !lcsh 'Folklore -- Burma'
+tableOfContents: A Laung Khit -- How Boh Han Me got his title -- The two Chinamen
+  -- The story of the princess Nang Kam Ung -- How the hare deceived the tiger --
+  The story of the tortoise -- The sparrow's wonderful brood -- How the world was
+  created -- How the king of Pagan caught the thief.
+title: Shan Folk Lore Stories from the Hill and Water Country
+url: http://www.gutenberg.org/ebooks/32375
